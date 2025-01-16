@@ -1,4 +1,4 @@
-.. image:: https://eodag.readthedocs.io/en/latest/_static/eodag_bycs.png
+ .. image:: https://eodag.readthedocs.io/en/latest/_static/eodag_bycs.png
     :target: https://github.com/CS-SI/eodag
 
 |
